@@ -1,0 +1,26 @@
+.NPKteaMajorDiv{
+    height: 100%;
+    width: 100%;
+    color: #8B0000;
+}
+
+.NPKteaTitleDiv{
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    height: 33.33%;
+}
+
+.NPKteaMinorDiv{
+    width: 100%;
+    height: 33.33%;
+    display: flex;
+}
+
+.NPKteaValuesDiv{
+    width: 33.33%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+}
+

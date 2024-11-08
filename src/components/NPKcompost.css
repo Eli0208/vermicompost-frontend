@@ -1,0 +1,25 @@
+.NPKcompostMajorDiv{
+    height: 100%;
+    width: 100%;
+    color: #8B0000;
+}
+
+.NPKcompostTitleDiv{
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    height: 33.33%;
+}
+
+.NPKcompostMinorDiv{
+    width: 100%;
+    height: 33.33%;
+    display: flex;
+}
+
+.NPKcompostValuesDiv{
+    width: 33.33%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+}
