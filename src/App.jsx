@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     // Fetch data when component mounts
     axios
-      .get("http://localhost:5000/api/sensors")
+      .get("https://vermicompost-backend.onrender.com/api/sensors")
       .then((response) => {
         setSensorData(response.data); // Store response data in state (assuming response.data.sensor is the array)
       })
